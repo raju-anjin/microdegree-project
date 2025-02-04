@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raju Kannada Traveller</title>
+    <style>
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #414141;
+            color: #333;
+        }
+        header {
+            font-family: Arial;
+            background-color: #000000;
+            color: rgb(255, 255, 255);
+            padding: 30px 20px;
+            text-align: center;
+            font-size-adjust: calc(0.5);
+        }
+        nav {
+            text-align: center;
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #4CAF50;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        main {
+            padding: 40px;
+            max-width: 800px;
+            margin: auto;
+        }
+
+        article {
+            margin-bottom: 30px;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        article img {
+            max-width: 100%;
+            border-radius: 8px;
+        }
+        article h2 {
+            color: #4CAF50;
+        }
+        footer {
+            text-align: center;
+            padding: 50px;
+            background-color: #000000;
+            color: white;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+
+
+
+<header>
+    <h1>Welcome to My Travel Blog Raju Kannada Travelller</h1>
+    <p>Sharing my adventures, tips, and unforgettable experiences.</p>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#about">About</a>
+    <a href="#destinations">Destinations</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<main>
+    <article>
+        <h2>Delhi India Gate</h2>
+        <img src="Delhi Gate.JPG" alt="Mypic">"
+        <p>At the centre of New Delhi stands the 42 m high India Gate, an “Arc-de-Triomphe” like archway in the middle of a crossroad. Almost similar to its French counterpart, it commemorates the 70,000 Indian soldiers who lost their lives fighting for the British Army during the World War I.</p>
+    </article>
+
+    <article>
+        <h2>Taj Mahal Agra</h2>
+        <img src="Tajmahal.JPG" alt="Taj Mahal">
+        <p>The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan (reigned from 1628 to 1658), to house the tomb of his favourite wife, Mumtaz Mahal.</p>
+    </article>
+
+    <article>
+        <h2>On Top Of The Himalayas </h2>
+        <img src="himalaya.png" alt="Himalayas">
+        <p>The Himalayas are the world's highest mountain range, and are home to many of the world's tallest peaks, including Mount Everest. The Himalayas are also known for their historical, religious, and geographical significance</p>
+    </article>
+</main>
+
+<footer>
+    <p>&copy; 2024 My Travel Blog. All rights reserved.</p>
+    <p> Connect me on Instagram,Facebook -  @Raju_Anjin</p> 
+</footer>
+
+</body>
+</html>
